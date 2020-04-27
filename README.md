@@ -1,6 +1,6 @@
 # bytebank_v2
 
-A new Flutter project.
+Este é a versão 2.0 do projeto Bytebank.
 
 ## Getting Started
 
